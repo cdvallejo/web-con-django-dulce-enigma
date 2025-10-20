@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  line-height: 1;
+}
+
+h1,
+h2 {
+  color: #533318;
+}
+
+p {
+  font-size: 16px;
+  color: rgb(27, 0, 0);
+}
+
+header, footer {
+  background-color: #e4d3b9;
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.portada {
+  width: 30%;
+  height: auto;
+  border-radius: 15px;
+  margin-top: 15px;
+}
+
+.oferta-img {
+  width: 25%;
+  height: auto;
+  border-radius: 15px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+nav ul {
+  display: flex;
+  flex-direction: row;
+  justify-content: center; /* opcional: centra los elementos horizontalmente */
+  gap: 20px; /* opcional: añade espacio entre los enlaces */
+  list-style: none; /* quita los puntos de la lista */
+  padding: 0;
+}
+
+section h2 {
+  text-align: center;
+}
+
+iframe {
+  margin-bottom: 20px;
+}
