@@ -70,6 +70,13 @@ section h2 {
   text-align: center;
 }
 
+.contenedor-texto {
+  margin-top: 10px;
+  background-color: #f5e2c4a9;
+  width: 500px;
+  height: 400px;
+}
+
 iframe {
   margin-bottom: 60px;
 }
