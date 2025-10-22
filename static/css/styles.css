@@ -18,7 +18,7 @@ h2 {
 
 p {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  font-size: 16px;
+  font-size: 18px;
   color: rgb(27, 0, 0);
 }
 
@@ -74,7 +74,7 @@ section h2 {
   margin-top: 10px;
   background-color: #f5e2c4a9;
   width: 500px;
-  height: 400px;
+  height: 500px;
 }
 
 iframe {
