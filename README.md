@@ -1,13 +1,35 @@
-# Panadería El Dulce Enigma
+# 🥖 Panadería *El Dulce Enigma*
 
-Web landing page de una panadería realizado con Django.
+Landing page desarrollada con **Django** para una panadería artesanal.  
+El proyecto muestra un diseño web limpio, sencillo y funcional, enfocado para un primer aprendizaje de Django.
 
 ---
-* Proyecto para la clase "Desarrollo de aplicaciones web en el entorno servidor".
-* **Certificado de Desarrollo de Aplicaciones con Tecnología Web (IFCD2010)**, impartido por el **CPIFP Alan Turing**.
-* Profesor: Luis José Sánchez González.
 
-Dale una ⭐ a este repo si te ha gustado.
+## 🧰 Tecnologías utilizadas
+
+| Tecnología | Descripción |
+|-------------|-------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) | Lenguaje de programación principal |
+| ![Django](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white) | Framework web utilizado para el desarrollo de la aplicación |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white) | Estructura del contenido de la página |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) | Estilos y diseño visual |
+
+---
+
+## 📚 Proyecto académico
+
+💡 Proyecto realizado para la asignatura **"Desarrollo de aplicaciones web en el entorno servidor"**  
+📜 Dentro del **Certificado de Desarrollo de Aplicaciones con Tecnología Web (IFCD2010)**  
+🏫 Impartido por el **CPIFP Alan Turing**  
+👨‍🏫 Profesor: **Luis José Sánchez González**
+
+---
+
+## ⭐ Contribuye
+
+Si te ha gustado este proyecto, ¡no olvides dejar una ⭐ en el repositorio!
+
+---
 
 ## Galería:
 Inicio
