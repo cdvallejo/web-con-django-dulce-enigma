@@ -25,8 +25,6 @@ El proyecto muestra un diseño web limpio, sencillo y funcional, enfocado para u
 
 ---
 
-## ⭐ Contribuye
-
 Si te ha gustado este proyecto, ¡no olvides dejar una ⭐ en el repositorio!
 
 ---
